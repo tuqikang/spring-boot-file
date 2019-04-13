@@ -1,0 +1,4 @@
+#application.properties文件中取消模板文件缓存
+spring:
+  thymeleaf:
+    cache: false
